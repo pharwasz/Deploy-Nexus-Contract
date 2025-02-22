@@ -12,13 +12,13 @@
 ## Deploy Contract using Remix (Manually)
 **1- Visit [Remix](https://remix.ethereum.org/)**
 
-**2- Create a `storage.sol` file By clicking File explorer on the Left
+**2- Create a `storage.sol` file By clicking File explorer on the Left**
 
 <img width="293" alt="image" src="https://github.com/user-attachments/assets/dca760d6-827b-4803-8829-3963c2c7b528" />
 <img width="223" alt="image" src="https://github.com/user-attachments/assets/ca2c25b0-2af7-4b35-aacb-a2cf0715dbf9" />
 
 
-**Under Contracts, click 1_Storage.sol
+**Under Contracts, click 1_Storage.sol**
 
 <img width="233" alt="image" src="https://github.com/user-attachments/assets/c731ffa0-a43e-4fce-9661-332b08a66b6d" />
 
